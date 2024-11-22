@@ -6,6 +6,7 @@
 - 2024.10.21(월) ~ 2024.11.04(월)
 
 
+
 ## 💻 개발환경
 - **Version** : JDK 8
 - **IDE** : Eclipse 2020-09
@@ -13,8 +14,10 @@
 - **ORM** : MYBATIS
 
 
+
 ## ⚙️ 기술 스택
 - HTML/CSS/JS, JSP, JQUERY, AJAX, ORACLE
+
 
 
 ## 📌 주요 기능
